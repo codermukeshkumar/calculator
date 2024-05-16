@@ -74,7 +74,7 @@ form input.operator {
   color: #33ffd8;
 }
 
-@media (width <= 320px) {
+@media (width <= 768px) {
   .calculator form input {
     width: 5rem;
     height: 5rem;
